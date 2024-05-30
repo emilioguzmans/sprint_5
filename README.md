@@ -3,5 +3,4 @@ Se usan casillas de verificación para mostrar y ocultar estos gráficos.
 
 Se usó "requirement.txt" (en singular) en vez de "requirements.txt" debido a que así aparece que se llame en las indicaciones del proyecto.
 
-El URL de la aplicación web se encuentra debajo:
-https://sprint-5-d6on.onrender.com
+El URL de la aplicación web es la siguiente: https://sprint-5-d6on.onrender.com
